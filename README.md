@@ -1,7 +1,7 @@
 # NOVA_TREASURE_CLUE3
-
+## check the logo
 <html>
-	<title>CHECK-THE-LOGO FIRST</title>
+	
 	<body>
     <br><br>
     <h1>
