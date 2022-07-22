@@ -1,4 +1,4 @@
-# NOVA_TREASURE_CLUE3
+# NOVA_TREASURE_HINT_3
 
 <html>
 <body>
