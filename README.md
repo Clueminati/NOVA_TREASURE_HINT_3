@@ -1,10 +1,8 @@
 # NOVA_TREASURE_CLUE3
-## check the logo
 <html>
-	
 	<body>
-    <br><br>
-    <h1>
+    		<br><br>
+   
 		<a href="https://mywordle.strivemath.com/?word=wikkzv">SOLVE-THE-PUZZLE</a>
 		<br>
     <br>
