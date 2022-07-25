@@ -10,8 +10,8 @@ Check the logo :)
 <br><br>
 <footer>
 <p>&#127937; &nbsp;
-"One is &hearts;
-because one is &hearts;
+" <strong>1</strong> is &hearts;
+because <strong>1</strong> is &hearts;
 No reason is needed for &hearts;"
 </p>
 </footer>
